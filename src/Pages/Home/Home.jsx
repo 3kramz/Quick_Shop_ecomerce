@@ -2,7 +2,8 @@ import Banner from "./Banner/Banner";
 import FeaturedCategories from "./FeaturedCategories/FeaturedCategories";
 import PopularProducts from "./PopulerProducts/PopulerProducts";
 import DailyBestSales from "./DailyBestSales/DailyBestSales";
-import DealsOfTheDays from "./DealsofTheDay/DealsofTheDay";
+// import DealsOfTheDays from "./DealsofTheDay/DealsofTheDay";
+import DealsOfTheDays from "./DealsofTheDay/DealsOfTheDay";
 import CatagoraisedProduct from "./CatagoraisedProduct/CatagoraisedProduct";
 
 const Home = () => {

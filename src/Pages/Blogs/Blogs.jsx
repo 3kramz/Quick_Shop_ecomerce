@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
 import { FaHome, FaComment, FaHeart, FaShareAlt } from "react-icons/fa";
 
-import BlogArticle from "./blogArticle";
+import BlogArticle from "./BlogArticle";
 import header_blog from "../../assets/blogs/header-blog.png";
 import blogCardImg from "../../assets/blogs/blogcardimg.png";
 

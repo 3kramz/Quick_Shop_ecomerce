@@ -1,9 +1,8 @@
 import { useEffect, useState } from "react";
 import SlideInfo from "./SlideInfo";
-import Slide from "./Slide";
-import Arrow from "./icons/Arrow";
-import Dots from "./Icons/Dots";
 import SliderContent from "./SliderContent";
+import Arrow from "./Icons/Arrow";
+import Dots from "./Icons/Dots";
 
 
 const Banner = () => {
